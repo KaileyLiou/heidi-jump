@@ -2,4 +2,4 @@
 
 Short platformer game made on GameMaker for Campfire x Overdrive training tutorial.
 
-<img width="1353" height="755" alt="Heidi Jump Platformer" src="https://github.com/user-attachments/assets/82d9d8ef-30be-4000-adc2-8949dd1a05bb" />
+<img width="1357" height="760" alt="Heidi Jump Platformer" src="https://github.com/user-attachments/assets/d6e5ac81-8269-448b-92a8-4a2f3da0038e" />
